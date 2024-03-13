@@ -13,6 +13,7 @@ body{
 #maintextCarousel {
     height: auto !important;
     overflow-x: hidden !important;
+    width:100vw;
 }
 .carousel-item-2 {
     position: relative;
